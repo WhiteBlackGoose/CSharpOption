@@ -1,3 +1,7 @@
+> **WARNING**: Deprecated.
+> 
+> Use [Honk#](https://github.com/WhiteBlackGoose/HonkSharp) instead.
+
 ## Option for C\#
 
 Imagine using the `TryPattern` in 2021... compare this old-fashioned ugly bruuh
